@@ -40,11 +40,4 @@ Matplotlib (Statistics & charts)
 
 Threading & Subprocess (Non-blocking execution)
 
-📂 Project Structure
-├── ids_gui.py              # Graphical User Interface
-├── ids_core.py             # IDS core logic
-├── test_bruteforce.py      # Bruteforce attack simulation
-├── test_scapy_attacks.py   # Scapy attack simulation
-├── config.py               # User credentials
-├── logs/                   # IDS logs
-└── README.md               # Project documentation
+
