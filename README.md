@@ -4,7 +4,7 @@ This project is a Python-based Intrusion Detection System (IDS) with a graphical
 
 It is designed for educational and academic purposes, helping students understand how IDS systems work in practice.
 
-🚀 Features
+1. 🚀 Features
 
 🔑 Authentication system (Admin / User)
 
@@ -14,19 +14,19 @@ It is designed for educational and academic purposes, helping students understan
 
 🚨 Intrusion detection and alert generation
 
-⚔️ Attack simulation panel
+2. ⚔️ Attack simulation panel
 
 Bruteforce attack simulation
 
 Scapy-based network attacks
 
-📊 Statistics and visual charts
+3. 📊 Statistics and visual charts
 
-🧹 Automatic log management and cleanup
+4. 🧹 Automatic log management and cleanup
 
-🧑‍💻 Role-based access control
+5. 🧑‍💻 Role-based access control
 
-🛠️ Technologies Used
+6. 🛠️ Technologies Used
 
 Python 3
 
